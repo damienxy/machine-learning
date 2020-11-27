@@ -8,8 +8,8 @@ Classification: Penguin dataset<br>
 Regression: Anscombe dataset
 
 **Files:**<br>
-Classification: [Classification](classification-models.ipynb)<br>
-Regression: [Regression](regression-models.ipynb)
+[Classification comparison](classification-models.ipynb)<br>
+[Regression comparison](regression-models.ipynb)
 
 **Technologies:**<br>
 Python | scikit-learn | pandas | seaborn | matplotlib
